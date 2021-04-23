@@ -13,7 +13,7 @@ module.exports = __webpack_require__(543);
 /***/ (() => {
 
 if (window.location.hash.length === 0) {
-  window.location.replace("https://discord.com/oauth2/authorize?client_id=447809656652562433&redirect_uri=".concat(encodeURIComponent("http://itsrauf.github.io/guildcount/"), "&response_type=token&scope=guilds%20identify&prompt=none"));
+  window.location.replace("https://discord.com/oauth2/authorize?client_id=447809656652562433&redirect_uri=".concat(encodeURIComponent("https://itsrauf.github.io/guildcount/"), "&response_type=token&scope=guilds%20identify&prompt=none"));
 }
 
 /***/ }),
