@@ -1,0 +1,2 @@
+# guildcount
+Discord Server Counter
