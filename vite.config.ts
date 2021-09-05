@@ -7,4 +7,5 @@ export default defineConfig({
     target: "esnext",
     polyfillDynamicImport: false,
   },
+  base: "/guildcount/",
 });
